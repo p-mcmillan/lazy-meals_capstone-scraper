@@ -1,0 +1,369 @@
+[
+  {
+    "id": "e74c1053-5348-4ebe-99b4-b970ec023065",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:24:49.801Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "8926d102-2ee7-469a-8774-b2d25397ea9f",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:24:59.567Z",
+    "item_brand": "Farmer's Market",
+    "item_name": "Granny Smith Apples",
+    "item_sale_price": "6.79",
+    "item_original_price": "7.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20737811001/b2/en/front/20737811001_front_a06_@2.png"
+  },
+  {
+    "id": "3826e2b5-f801-4608-b5fa-813c1fd00e5d",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:25:21.309Z",
+    "item_brand": "Taylor Farms",
+    "item_name": "Maple Bourbon Bacon Chopped Salad Kit",
+    "item_sale_price": "6.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21414456/b2/en/open/21414456_open_a06_@2.png"
+  },
+  {
+    "id": "ab2710c4-b476-4700-9d7e-cd4c2c745c36",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:25:29.129Z",
+    "item_brand": "Well",
+    "item_name": "Detox 60 ml",
+    "item_sale_price": "3.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21362565/b2/en/front/21362565_front_a06_@2.png"
+  },
+  {
+    "id": "605282be-a206-4f9f-9fbb-369ca75c338b",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:25:44.772Z",
+    "item_brand": "Well",
+    "item_name": "Ink. Lemonade Spirulina",
+    "item_sale_price": "5.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21186555/b2/en/front/21186555_front_a06_@2.png"
+  },
+  {
+    "id": "1df883f5-a75c-46e7-8c3a-f8e220bdc43d",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:25:53.966Z",
+    "item_brand": "Remedy",
+    "item_name": "Organic Mango Passionfruit Kombucha",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21335195/b2/en/front/21335195_front_a06_@2.png"
+  },
+  {
+    "id": "89a34a8c-5c8a-4572-8bf7-863635d3313f",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:26:10.959Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "27a49037-bf3a-4657-b5cc-d0ad3b0e26b7",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:26:19.371Z",
+    "item_brand": "Farmer's Market",
+    "item_name": "Red Grapefruit",
+    "item_sale_price": "2.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20020516001/b2/en/front/20020516001_front_a06_@2.png"
+  },
+  {
+    "id": "5d15d25f-821b-47cd-80c8-35e4c28df6f3",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:26:27.554Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "2182a8eb-ad42-4d95-9a02-35b9836050a2",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:26:36.086Z",
+    "item_brand": "Taylor Farms",
+    "item_name": "Broccoli Crunch Chopped Salad Kit",
+    "item_sale_price": "6.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21381584/b2/en/open/21381584_open_a06_@2.png"
+  },
+  {
+    "id": "14b80d8c-6bae-41c6-a1d3-44290da01592",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:26:43.678Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "dd57e86f-ce37-4560-9c5e-2b51c239e6de",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:26:53.932Z",
+    "item_brand": "President's Choice",
+    "item_name": "Broccoli Florets",
+    "item_sale_price": "3.99",
+    "item_original_price": "4.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20039812/b2/en/front/20039812_front_a06_@2.png"
+  },
+  {
+    "id": "4f268bf6-811b-4135-bb72-e4cac5c07f93",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:27:02.131Z",
+    "item_brand": "Taylor Farms",
+    "item_name": "Everything Chopped Salad Kit",
+    "item_sale_price": "6.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21335140/b2/en/open/21335140_open_a06_@2.png"
+  },
+  {
+    "id": "025a374b-4896-4ccf-a7df-943dd142dbc3",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:27:09.876Z",
+    "item_brand": "Remedy",
+    "item_name": "Org Kom Rasp Lemn 700Ml",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21290379/b2/en/front/21290379_front_a06_@2.png"
+  },
+  {
+    "id": "4a404ace-a8b2-4396-86d0-8a44dd918438",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:27:16.991Z",
+    "item_brand": "Well",
+    "item_name": "Cold Pressed Juice Be Well",
+    "item_sale_price": "5.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21186483/b2/en/front/21186483_front_a06_@2.png"
+  },
+  {
+    "id": "d8b56d24-d0fd-4fd0-ba34-5a090260d010",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:27:23.983Z",
+    "item_brand": "Farmer's Market",
+    "item_name": "Grape Tomato 907G",
+    "item_sale_price": "5.99",
+    "item_original_price": "8.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20840038001/b2/en/top/20840038001_top_a06_@2.png"
+  },
+  {
+    "id": "a078b92c-4697-4edf-ab69-9762c8fdbdbd",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:27:32.583Z",
+    "item_brand": "Taylor Farms",
+    "item_name": "Chopped Salad Kit, Steakhouse",
+    "item_sale_price": "6.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21450957/b2/en/open/21450957_open_a06_@2.png"
+  },
+  {
+    "id": "75175f26-cfea-4340-8bab-58bf69269ff0",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:27:55.050Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d0762c88-e209-4716-815f-7092c987aa4e",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:28:05.074Z",
+    "item_brand": "Well",
+    "item_name": "Cold Pressed Juice Greens",
+    "item_sale_price": "5.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21186518/b2/en/front/21186518_front_a06_@2.png"
+  },
+  {
+    "id": "db5976ad-8251-406e-b72a-95b25b9d85e1",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:28:14.360Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "4684c944-bb8c-4cfa-b7c1-37a5cab88dba",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:28:23.658Z",
+    "item_brand": "Taylor Farms",
+    "item_name": "Guacamole Crunch Chopped Salad Kit",
+    "item_sale_price": "6.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21381581/b2/en/front/21381581_front_a06_@2.png"
+  },
+  {
+    "id": "5ef91903-9065-43b6-8621-e3943fa66d30",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:28:32.680Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d6916984-1b78-40e8-8cc0-e2c03883e13d",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:28:43.160Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "c0283d00-25b6-4030-9925-9f220f27c28c",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:28:51.988Z",
+    "item_brand": "Well",
+    "item_name": "Ink. Lemonade Charcoal",
+    "item_sale_price": "5.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21186508/b2/en/front/21186508_front_a06_@2.png"
+  },
+  {
+    "id": "df2f1823-dfed-4633-88ab-c99eb661788a",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:29:03.593Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "1c212cf9-fba6-4517-ba6b-613e2a89b40c",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:29:15.253Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "7840ec44-64e1-44c6-8353-9fdd63400246",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:29:35.701Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "0cb2f46c-3dec-4d9d-bb36-0385e9ea8165",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:29:47.285Z",
+    "item_brand": "No Name",
+    "item_name": "Red Cherries",
+    "item_sale_price": "7.83",
+    "item_original_price": "13.71",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20159690001/b2/en/front/20159690001_front_a06_@2.png"
+  },
+  {
+    "id": "11bbeca8-bee2-4b20-8d29-701f8a19f1e2",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:30:10.799Z",
+    "item_brand": "Farmer's Market",
+    "item_name": "English Cucumber 3Ct",
+    "item_sale_price": "2.99",
+    "item_original_price": "4.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20828461001/b2/en/open/20828461001_open_a06_@2.png"
+  },
+  {
+    "id": "3e790e0e-34ec-47cc-83f0-c7de8f307b70",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:30:21.269Z",
+    "item_brand": "Well",
+    "item_name": "Antiox",
+    "item_sale_price": "3.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21362286/b2/en/front/21362286_front_a06_@2.png"
+  },
+  {
+    "id": "50c54c71-53f4-49d9-a33c-525abe7bd665",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:30:46.579Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "c0a37757-9172-46bb-9888-60a9f53b24d8",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:30:59.880Z",
+    "item_brand": "The Little Potato Company",
+    "item_name": "Oven BBQ Ready Onion Chive Potatoes",
+    "item_sale_price": "4.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21397958/b2/en/front/21397958_front_a06_@2.png"
+  },
+  {
+    "id": "ef4af45b-e5c0-4483-b141-658cd2d12d49",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:31:09.900Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "aec307ed-1979-4222-9d52-fbba8d7ddd45",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:31:21.242Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "14dadcd6-10fd-4f11-8128-eb3a1de4d2b1",
+    "item_category": "fruitsVegtables",
+    "date_scraped": "2023-06-22T00:31:39.755Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  }
+]

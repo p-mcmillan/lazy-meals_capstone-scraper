@@ -1,0 +1,423 @@
+[
+  {
+    "id": "b05fc21d-960a-4a58-b7c8-ac6268ecd550",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:40:32.880Z",
+    "item_brand": "Marukome",
+    "item_name": "Instant Miso Soup, Tofu",
+    "item_sale_price": "2.99",
+    "item_original_price": "3.99",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20999104/b2/en/front/20999104_front_a06_@2.png"
+  },
+  {
+    "id": "84c6cbdb-4b83-45bb-86e0-6fa191e75494",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:40:39.709Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "4284713e-4ec0-44af-b80d-2b1eeec73bc1",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:40:48.529Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "6217318a-de16-4790-8f94-69e8d28cc2f5",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:40:56.585Z",
+    "item_brand": "T&T",
+    "item_name": "Cashews, Unsalted",
+    "item_sale_price": "16.99",
+    "item_original_price": "18.99",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20807973/b2/en/front/20807973_front_a06_@2.png"
+  },
+  {
+    "id": "cced0634-538d-41da-b5f3-5755666f5e4f",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:41:03.175Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "e224b43d-40ae-4cec-9cfb-7203f6530e07",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:41:18.554Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "2f66eaee-3806-4c82-9364-61860f6222a7",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:41:25.997Z",
+    "item_brand": "President's Choice",
+    "item_name": "Udon Noodles",
+    "item_sale_price": "2.49",
+    "item_original_price": "4.49",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20354811/b2/en/side/20354811_side_a06_@2.png"
+  },
+  {
+    "id": "32d3218f-4171-4cae-ba5a-31962c74d435",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:41:38.459Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "e77346de-7117-48d4-835b-e8973203c530",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:41:57.772Z",
+    "item_brand": "O'Tasty",
+    "item_name": "Vegetable & Chicken Dumplings",
+    "item_sale_price": "5.49",
+    "item_original_price": "6.29",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20319243004/b2/en/front/20319243004_front_a06_@2.png"
+  },
+  {
+    "id": "d6b0db6e-b7d2-4888-8786-d98834840283",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:42:06.037Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "4974836f-0cc6-4d2d-9b1c-369ca2aa6e45",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:42:15.301Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "8a4c1d39-5fb1-4dbe-afc6-15ffd0fece66",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:42:25.507Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "6cd4b757-9262-4332-b0fb-34a5d4360c9c",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:42:34.321Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "45bee39d-b079-41ce-809e-1666a1528df7",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:42:51.163Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "ccabc591-63b3-436d-8ea0-5344f9ca1c29",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:42:58.379Z",
+    "item_brand": "Billy Bee",
+    "item_name": "Pure Natural White Honey",
+    "item_sale_price": "6.49",
+    "item_original_price": "10.99",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/21001564/b2/en/front/21001564_front_a06_@2.png"
+  },
+  {
+    "id": "aafa5835-4248-4633-9169-04b35eecb5ac",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:43:16.599Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "6841cc8d-90b4-4c30-b051-4b2964e2b1c3",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:43:24.334Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "9b32bce5-7d63-44be-af66-9e06bfcddff0",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:43:33.338Z",
+    "item_brand": "Lotte",
+    "item_name": "Koala's March Chocolate Cookies",
+    "item_sale_price": "5.49",
+    "item_original_price": "6.79",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20353341/b2/en/side/20353341_side_a06_@2.png"
+  },
+  {
+    "id": "30d03d7b-20f5-4551-ad5f-c4e22ef16dd9",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:43:40.866Z",
+    "item_brand": "Chaokoh",
+    "item_name": "Coconut Water with Pulp",
+    "item_sale_price": "1.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20023918001/b2/en/front/20023918001_front_a06_@2.png"
+  },
+  {
+    "id": "a2efcc6f-b7bd-49ca-9a40-3e2c23278a48",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:43:49.851Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "851fd7db-cd18-4571-922d-6f802627ca08",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:43:57.978Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "065648b5-3dfc-48a7-98a1-47316527ccb7",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:44:06.256Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d9a62837-7e1f-49ac-a80e-6711cc5271bf",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:44:22.489Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "e5d639aa-5415-4ba8-8ea0-8dbcbc43322c",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:44:31.462Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "5c066e70-bab8-4943-9725-69c845a80a8e",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:44:39.654Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "700492c7-cdc0-49ed-a1f1-377e0e23df8f",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:44:47.622Z",
+    "item_brand": "Lee Kum Kee",
+    "item_name": "Panda Brand Oyster Sauce",
+    "item_sale_price": "3.49",
+    "item_original_price": "3.79",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20139600/b2/en/front/20139600_front_a06_@2.png"
+  },
+  {
+    "id": "0901bfe4-6090-4e62-b48d-87a143003bb5",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:44:54.317Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "b2c55dc3-7adf-4589-ae2a-5da4e8c3c643",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:45:01.247Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d94f76d7-6974-4b1a-b501-20ba649fe0d8",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:45:18.200Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "55afee72-6bca-4e97-a58d-1ce816f0f655",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:45:28.524Z",
+    "item_brand": "Binggrae",
+    "item_name": "Melona Frozen Dessert Bars Honeydew Melon",
+    "item_sale_price": "5.99",
+    "item_original_price": "6.99",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/21020135/b2/en/closed/21020135_closed_a06_@2.png"
+  },
+  {
+    "id": "9f302793-ffcf-4f68-826c-7b1490103696",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:45:37.850Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "4cb6b1b5-af61-4bae-9216-173216399e5d",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:45:45.714Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d7b61bc0-312d-46e3-b308-0f2f2dabc8cd",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:46:01.288Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "499a961f-a473-4f7b-918f-885b3f7efe62",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:46:12.352Z",
+    "item_brand": "Wall’s",
+    "item_name": "Ice Cream, Bubble Tea Milk Tea & Boba Pearls Flavours, with Chewy Tapioca Balls",
+    "item_sale_price": "5.99",
+    "item_original_price": "6.99",
+    "sale_Expiry_Date": "2023-08-09",
+    "item_image": "https://assets.shop.loblaws.ca/products/21428844/b2/en/closed/21428844_closed_a06_@2.png"
+  },
+  {
+    "id": "036b3f60-4f0e-48bd-8ef5-71938a4455b0",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:46:19.367Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "f6b7c08f-cdf0-43a9-83a2-b92daf033f05",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:46:28.854Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "dd67ee4f-9bee-416c-8299-0d99fcbc07ea",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:46:37.482Z",
+    "item_brand": "Knorr",
+    "item_name": "Chicken Broth",
+    "item_sale_price": "2.49",
+    "item_original_price": "2.99",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20323241002/b2/en/front/20323241002_front_a06_@2.png"
+  },
+  {
+    "id": "8463f660-f77e-409d-9dc9-a9ef7fab33a2",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:46:46.137Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "aa86697c-e822-46ec-8e07-c81ecbf45ce7",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:46:54.259Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "dbc922f6-3fcb-4798-8714-e2e8b1fecf54",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:47:04.475Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "0f47c902-44fd-4fd3-8bd0-32aa2314c9a3",
+    "item_category": "internationalFoods",
+    "date_scraped": "2023-06-22T04:47:11.287Z",
+    "item_brand": "Kosa",
+    "item_name": "Mango Slice In Light Syrup",
+    "item_sale_price": "1.99",
+    "item_original_price": "2.49",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/21373932/b2/en/front/21373932_front_a06_@2.png"
+  }
+]

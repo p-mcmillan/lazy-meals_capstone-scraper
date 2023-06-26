@@ -1,0 +1,13 @@
+# API keys and credentials
+.env
+.env.*
+credentials.json
+
+# Personal files
+secret.txt
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

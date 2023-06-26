@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "b8c53a15-5c6b-4096-8a07-da564fd346c9",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:21:21.949Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "1009862b-07bf-4e5a-9515-0b88f8b160ad",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:21:33.869Z",
+    "item_brand": "PC Black Label",
+    "item_name": "Classic Aioli",
+    "item_sale_price": "5.49",
+    "item_original_price": "5.99",
+    "sale_Expiry_Date": "2023-07-12",
+    "item_image": "https://assets.shop.loblaws.ca/products/20817827/b2/en/angle/20817827_angle_a06_@2.png"
+  },
+  {
+    "id": "832734f3-8260-498a-8ce3-60556d324a45",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:21:42.491Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "22b4fe36-adf8-4a08-a5d1-5aff8cb48af9",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:21:55.100Z",
+    "item_brand": "Heinz",
+    "item_name": "Spaghetti in Tomato Sauce with Cheese",
+    "item_sale_price": "2.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20040380001/b2/en/front/20040380001_front_a06_@2.png"
+  },
+  {
+    "id": "c59651b6-82d2-4a0e-8648-7d2ad04d9ee4",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:22:02.426Z",
+    "item_brand": "President's Choice",
+    "item_name": "Udon Noodles",
+    "item_sale_price": "2.49",
+    "item_original_price": "4.49",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20354811/b2/en/side/20354811_side_a06_@2.png"
+  },
+  {
+    "id": "f74eac15-d189-4a9d-b923-6f9632555828",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:22:11.801Z",
+    "item_brand": "Billy Bee",
+    "item_name": "Pure Natural White Honey",
+    "item_sale_price": "6.49",
+    "item_original_price": "10.99",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/21001564/b2/en/front/21001564_front_a06_@2.png"
+  },
+  {
+    "id": "9659468f-9a05-4dd9-b70f-b278aafb55bd",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:22:19.366Z",
+    "item_brand": "PC Black Label",
+    "item_name": "Fennel & Cherry Tomato Sauce",
+    "item_sale_price": "6.79",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21106467/b2/en/front/21106467_front_a06_@2.png"
+  },
+  {
+    "id": "4fb6428a-048e-48f5-912a-f4ca9baa27d0",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:22:29.030Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "91cbaefc-53c6-402a-bde8-b093b2384930",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:22:36.140Z",
+    "item_brand": "Hershey's",
+    "item_name": "Chipits Semi-Sweet Minis Chocolate Chips, 270G",
+    "item_sale_price": "4.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21452925/b2/en/open/21452925_open_a06_@2.png"
+  },
+  {
+    "id": "0680329d-336e-40de-8ab6-5e58b02bd627",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:22:51.925Z",
+    "item_brand": "Kraft",
+    "item_name": "Dinner Poutine Macaroni & Cheese Snack Cup",
+    "item_sale_price": "2.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21435132/b2/en/closed/21435132_closed_a06_@2.png"
+  },
+  {
+    "id": "3f1084c4-909f-4afa-99d4-f3b8386f6526",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:23:03.904Z",
+    "item_brand": "Campbell's",
+    "item_name": "Cream of Mushroom, No Salt Added",
+    "item_sale_price": "2.49",
+    "item_original_price": "2.66",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20984506/b2/en/front/20984506_front_a06_@2.png"
+  },
+  {
+    "id": "b847b994-38b0-4ee0-a3a0-935301565570",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:23:13.243Z",
+    "item_brand": "PC Blue Menu",
+    "item_name": "Great Northern Beans",
+    "item_sale_price": "3.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20629871/b2/en/front/20629871_front_a06_@2.png"
+  },
+  {
+    "id": "8b01f35c-0fa5-4a56-b23a-0db3c8fb4165",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:23:21.037Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "f7841ecd-6015-438f-84af-ba0006fdc0f6",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:23:30.246Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "02d3fe2b-b934-4dfe-8a45-d906265c607c",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:23:37.549Z",
+    "item_brand": "Classico",
+    "item_name": "Alfredo Spaghetti Pasta Sauce",
+    "item_sale_price": "5.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "https://assets.shop.loblaws.ca/products/20325609003/b2/en/top/20325609003_top_a06_@2.png"
+  },
+  {
+    "id": "4a952c67-ee92-4392-9342-f72aac3ce5b6",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:23:46.198Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "335dece9-dfe6-4fc6-bdda-ece82ecdb964",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:23:56.067Z",
+    "item_brand": "Heinz",
+    "item_name": "Scooby-Doo Shaped Pasta",
+    "item_sale_price": "2.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20040380005/b2/en/top/20040380005_top_a06_@2.png"
+  },
+  {
+    "id": "484cbd50-f1a0-4f5a-b9ea-60862fabfe0d",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:24:08.728Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "44585089-83c7-442f-a771-eaf4832a5c82",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:24:18.490Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "bf11cb53-130d-4bca-9f6e-1a2d15a7eafb",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:24:26.522Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "6a036405-ff0d-4e67-b64d-f4d4ac911e90",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:24:37.808Z",
+    "item_brand": "General Mills",
+    "item_name": "Corn Chex Breakfast Cereal, Gluten Free, Whole Grains, 340 g",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21499403/b2/en/back/21499403_back_a06_@2.png"
+  },
+  {
+    "id": "d9121d5e-2908-4a8b-a080-8897b4b5e01a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:24:47.232Z",
+    "item_brand": "PC Black Label",
+    "item_name": "Spaghetti",
+    "item_sale_price": "4.49",
+    "item_original_price": "4.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20419290006/b2/en/front/20419290006_front_a06_@2.png"
+  },
+  {
+    "id": "6af6b53c-189e-4f49-92f8-bacaa0ed7f60",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:24:56.803Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "f826a996-94ee-4bc3-b8b7-74ccb6ba1be6",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:25:04.139Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "294ca9de-043f-4d41-93a8-c3de40f7f5e7",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:25:11.621Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "a2cc571b-5d67-43d1-bc0f-a50777bef5ea",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:25:20.335Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "2554dbcf-f85e-40e7-b28f-469aae765f18",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:25:28.360Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d9e9ebb1-506a-4924-8e2b-9f2b6144ec5c",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:25:38.246Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "ceed3b8d-ad12-4518-af17-4b58362d7b06",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:25:49.984Z",
+    "item_brand": "Bens",
+    "item_name": "Fried Style Rice",
+    "item_sale_price": "4.79",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-07-12",
+    "item_image": "https://assets.shop.loblaws.ca/products/21405127/b2/en/open/21405127_open_a06_@2.png"
+  },
+  {
+    "id": "16d80526-0968-4eaa-8fb0-7a8506cd63ad",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:25:58.241Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "f121534d-92c7-4e95-90f6-a0da7d89e745",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:26:04.972Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "ca0e79d6-8216-4346-b983-dc1e42ea027a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:26:12.732Z",
+    "item_brand": "Knorr",
+    "item_name": "Classic Sauce Hollandaise without artificial flavours",
+    "item_sale_price": "2.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20321329001/b2/en/closed/20321329001_closed_a06_@2.png"
+  },
+  {
+    "id": "32ca38a9-a1ae-4e31-8fca-1fb7c7483e39",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:26:21.771Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "a12514da-bff2-49a5-b43d-4256401cd79a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:26:29.656Z",
+    "item_brand": "No Name",
+    "item_name": "100% Canadian Pure Creamed Honey",
+    "item_sale_price": "13.99",
+    "item_original_price": "14.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20072342/b2/en/front/20072342_front_a06_@2.png"
+  },
+  {
+    "id": "4e36a592-6bd8-4e49-9d21-97ebb93f9ea1",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:26:37.693Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d499ab18-b260-4e18-8547-c9502efaef35",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:26:45.608Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "c9ead080-580d-4d9a-ac5c-31c5c1108b1a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:26:53.541Z",
+    "item_brand": "President's Choice",
+    "item_name": "The Decadent Semi-Sweet Chocolate Chips",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20011473/b2/en/front/20011473_front_a06_@2.png"
+  },
+  {
+    "id": "f47496c6-3dc5-4522-a001-d8e065231d12",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:27:11.397Z",
+    "item_brand": "Hellmanns",
+    "item_name": "Mayonnaise Type Dressing  Light With Olive Oil",
+    "item_sale_price": "5.99",
+    "item_original_price": "7.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20627339001/b2/en/brand/20627339001_brand_a06_@2.png"
+  },
+  {
+    "id": "d79f555f-c600-4146-bdad-2fbc7b2f087e",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:27:26.116Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "33361118-88a7-4a0e-bc5c-80df5cd14906",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:27:33.638Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "c1456bd6-9bc1-4bc9-8625-e919e93f37f2",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:27:42.396Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "bcd7c044-3792-4014-bdca-b036757f343b",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:27:49.085Z",
+    "item_brand": "PC Organics",
+    "item_name": "Black Beans",
+    "item_sale_price": "1.99",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-07-12",
+    "item_image": "https://assets.shop.loblaws.ca/products/21403943/b2/en/front/21403943_front_a06_@2.png"
+  },
+  {
+    "id": "05732508-9e6f-438a-8018-b0cb9023ba05",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:27:57.172Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "3a8f18b4-6420-4b81-8935-ac6862cf8dd2",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:28:07.118Z",
+    "item_brand": "Hunt's",
+    "item_name": "Tomato Sauce, Roasted Garlic",
+    "item_sale_price": "2.49",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20023601002/b2/en/front/20023601002_front_a06_@2.png"
+  },
+  {
+    "id": "6ef22afd-e458-446e-92c1-b9c61fc9865e",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:28:14.491Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "17771d06-f635-44a5-aede-106ede04caf6",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:28:22.135Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "a0851e55-b9b0-4fb8-8ca6-1c4383b0b66a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:28:40.601Z",
+    "item_brand": "President's Choice",
+    "item_name": "Parsley Leaves",
+    "item_sale_price": "6.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21117320/b2/en/side/21117320_side_a06_@2.png"
+  },
+  {
+    "id": "01e81a53-f239-4340-921c-1772f9d65bdf",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:28:48.523Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "8dcaed96-6b07-4c74-81b1-d15fb91f24d4",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:29:15.319Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "482967cb-3104-4bd6-a6cc-6de69770c9a3",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:29:24.281Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "bacf2a78-4b30-4952-a898-6a275022b2d5",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:29:32.682Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "1c7416b6-6974-4ae9-8cbc-46e5a3f34903",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:29:39.192Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "b27a8b54-8877-4612-b7e2-5443e09d34f8",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:29:55.272Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "672f55d8-e9f1-4cc1-b7f7-ee3259ef8c80",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:30:04.980Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "621b8565-2507-4ae6-9887-8463393116bf",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:30:11.413Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "9f1154d6-0574-4d8a-ab79-c388e070e80d",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:30:19.760Z",
+    "item_brand": "PC Black Label",
+    "item_name": "Gold Barbecue Sauce",
+    "item_sale_price": "3.99",
+    "item_original_price": "4.49",
+    "sale_Expiry_Date": "2023-07-12",
+    "item_image": "https://assets.shop.loblaws.ca/products/21406063/b2/en/angle/21406063_angle_a06_@2.png"
+  },
+  {
+    "id": "6a3575a3-363a-4a03-8542-bb097b3b3a1e",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:30:32.143Z",
+    "item_brand": "Kelloggs",
+    "item_name": "Cereal Blueberry Flavour Special Edition",
+    "item_sale_price": "6.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21378915/b2/en/side/21378915_side_a06_@2.png"
+  },
+  {
+    "id": "8bae11eb-5d51-46a8-a03f-9cb90de1637d",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:30:39.978Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "a12e5dbb-9eb3-4275-9c8a-17b843b2becc",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:30:47.479Z",
+    "item_brand": "PC Black Label",
+    "item_name": "Spaghetti",
+    "item_sale_price": "4.49",
+    "item_original_price": "4.99",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20419290006/b2/en/front/20419290006_front_a06_@2.png"
+  },
+  {
+    "id": "4dbf8d3d-4993-43bf-a392-5f24f61538dd",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:31:04.930Z",
+    "item_brand": "Barilla",
+    "item_name": "Pasta Cut Macaroni N.35",
+    "item_sale_price": "2.49",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/21515800/b2/en/side/21515800_side_a06_@2.png"
+  },
+  {
+    "id": "dab2df99-332e-448b-9cb6-bb027af3c5de",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:31:13.854Z",
+    "item_brand": "General Mills",
+    "item_name": "Honey Nut Cheerios Breakfast Cereal, Whole Grains",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21104047/b2/en/side/21104047_side_a06_@2.png"
+  },
+  {
+    "id": "d3a62756-5a4b-4e0f-b547-b2c8e88226ac",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:31:21.037Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "3dc374db-477d-4e91-9dc7-df00bfe230b6",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:31:28.555Z",
+    "item_brand": "Unico",
+    "item_name": "Diced Tomatoes, Herbs & Spices",
+    "item_sale_price": "2.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20314629006/b2/en/front/20314629006_front_a06_@2.png"
+  },
+  {
+    "id": "44f98dd4-1ce7-480a-b1a6-345f21978b26",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:31:37.099Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "64d62394-f293-43c5-9295-2de88346eba8",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:31:45.052Z",
+    "item_brand": "Rooster",
+    "item_name": "Vermicelli Longkou Pancit Sotanghon",
+    "item_sale_price": "1.79",
+    "item_original_price": "2.29",
+    "sale_Expiry_Date": "2023-06-28",
+    "item_image": "//assets.shop.loblaws.ca/products/NoImage/b1/en/front/NoImage_front_a06.png"
+  },
+  {
+    "id": "d6940217-e235-4ff2-b304-99e2cd0bc22f",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:31:54.974Z",
+    "item_brand": "Campbell's",
+    "item_name": "Herbed Chicken with Rice Ready to Serve Soup",
+    "item_sale_price": "3.59",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21479024/b2/en/angle/21479024_angle_a06_@2.png"
+  },
+  {
+    "id": "efff97ee-02e1-4053-8c5e-66e5aa85942d",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:32:04.022Z",
+    "item_brand": "McCormicks",
+    "item_name": "International Sauce Mix, Roast Gravy For Poultry",
+    "item_sale_price": "2.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20321601002/b2/en/front/20321601002_front_a06_@2.png"
+  },
+  {
+    "id": "60e14978-39cf-44cc-9a3f-13edd2210927",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:32:11.997Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "ec807d84-fa90-4a6b-9905-c173dac471ef",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:32:20.483Z",
+    "item_brand": "PC Blue Menu",
+    "item_name": "Cut Green Beans",
+    "item_sale_price": "1.79",
+    "item_original_price": "1.99",
+    "sale_Expiry_Date": "2023-07-12",
+    "item_image": "https://assets.shop.loblaws.ca/products/20069306/b2/en/front/20069306_front_a06_@2.png"
+  },
+  {
+    "id": "0e39646f-8c10-4022-9dde-d89e533fd548",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:32:28.615Z",
+    "item_brand": "Chef Boyardee",
+    "item_name": "Lasagna",
+    "item_sale_price": "2.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20312500003/b2/en/front/20312500003_front_a06_@2.png"
+  },
+  {
+    "id": "6c7204ed-f38c-40e9-9843-5ba238812836",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:32:37.319Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "ec7b6f81-03e7-4c6a-8b84-86ab47b5f542",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:32:45.614Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "37c2f53a-ddae-4c35-a0fb-af753d93a5bd",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:32:53.302Z",
+    "item_brand": "Campbell's",
+    "item_name": "Condensed Soup Vegetable",
+    "item_sale_price": "2.29",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20176214002/b2/en/front/20176214002_front_a06_@2.png"
+  },
+  {
+    "id": "d33f3cf3-26b0-4605-ae04-2951e58d37e7",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:33:02.210Z",
+    "item_brand": "Kraft",
+    "item_name": "Zesty Italian Salad Dressing",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20628297014/b2/en/side/20628297014_side_a06_@2.png"
+  },
+  {
+    "id": "a23827cd-7088-4506-93c7-9e3d656f3be7",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:33:28.317Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "5cfd924a-5723-45c8-8e87-be73285df096",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:33:35.084Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "5ce20d40-a6f5-4ac9-bf19-cb28f9dfe4bb",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:33:44.350Z",
+    "item_brand": "Bens",
+    "item_name": "Organic Brown & Wild Rice Tomato & Roasted Garlic Flavour",
+    "item_sale_price": "5.79",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-07-12",
+    "item_image": "https://assets.shop.loblaws.ca/products/21494285/b2/en/front/21494285_front_a06_@2.png"
+  },
+  {
+    "id": "178c6d22-114a-4ab9-be21-b5a721b55b91",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:34:00.367Z",
+    "item_brand": "Bens",
+    "item_name": "Long Grain & Wild Rice Roasted Garlic Flavour",
+    "item_sale_price": "4.79",
+    "item_original_price": "null",
+    "sale_Expiry_Date": "2023-07-12",
+    "item_image": "https://assets.shop.loblaws.ca/products/21405191/b2/en/open/21405191_open_a06_@2.png"
+  },
+  {
+    "id": "b98aece8-a573-490a-88e4-e50c68bc4d17",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:34:09.802Z",
+    "item_brand": "Clover Leaf",
+    "item_name": "Chicken Snacks, Original",
+    "item_sale_price": "2.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20821019/b2/en/side/20821019_side_a06_@2.png"
+  },
+  {
+    "id": "5f1f089c-e52b-46b1-8ddd-fd061feb713d",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:34:21.084Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d9225c12-3822-4eab-9cdd-86b664a44123",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:34:29.362Z",
+    "item_brand": "No Yolks",
+    "item_name": "Extra Broad Cholesterol-Free Egg White Noodles",
+    "item_sale_price": "2.79",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21439286/b2/en/front/21439286_front_a06_@2.png"
+  },
+  {
+    "id": "66851ad0-df98-4cb5-bc16-933f0fe185b8",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:34:37.303Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "2ca4840b-3cfd-4683-bf6b-9d21163a3902",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:34:45.335Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "c803b65e-7051-4e72-952b-14be455d035a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:34:56.402Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "6fb49c94-5cf0-451b-aa93-6930b165fa3d",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:35:04.491Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "6d2671c1-493d-432d-bfd1-04dffc6d26a5",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:35:11.632Z",
+    "item_brand": "Kraft",
+    "item_name": "Only Peanuts All Natural Crunchy Peanut Butter",
+    "item_sale_price": "7.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20311582003/b2/en/open/20311582003_open_a06_@2.png"
+  },
+  {
+    "id": "1edbf698-e114-4b81-8f4d-4f52a22a25d4",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:35:19.818Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "7f93ba16-e30c-42b3-9c4c-9754b6195801",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:35:30.153Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "f8bfe454-c67e-4808-918f-d0b740d52cb6",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:35:39.788Z",
+    "item_brand": "No Name",
+    "item_name": "Peaches & Mandarins in Juice from Concentrate",
+    "item_sale_price": "4.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20618857/b2/en/front/20618857_front_a06_@2.png"
+  },
+  {
+    "id": "7a734066-20a9-440d-aca0-6b25f358ee51",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:35:47.428Z",
+    "item_brand": "PC Organics",
+    "item_name": "Organic Tomato & Basil Pasta Sauce",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20085773001/b2/en/front/20085773001_front_a06_@2.png"
+  },
+  {
+    "id": "2f6dd67f-ab90-4181-a277-612807aa6619",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:35:55.928Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "44fccfac-2d37-4fb0-b264-4874baedd701",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:36:46.614Z",
+    "item_brand": "Kraft",
+    "item_name": "Calorie Wise Greek Feta and Oregano Dressing",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20317583001/b2/en/side/20317583001_side_a06_@2.png"
+  },
+  {
+    "id": "2fb3abfb-5953-4f63-9849-ed60a51ec341",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:36:55.849Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "3c9e6537-fff0-4b03-9f21-22e0a955c1d6",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:37:04.229Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "78ea79d1-b564-4494-ab5e-b83949301676",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:37:12.179Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "f5d8da9a-3853-4a65-b1ef-2d4305d55889",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:37:30.145Z",
+    "item_brand": "PC Blue Menu",
+    "item_name": "Lemon Poppy Seed Dressing",
+    "item_sale_price": "3.29",
+    "item_original_price": "3.50",
+    "sale_Expiry_Date": "2023-06-21",
+    "item_image": "https://assets.shop.loblaws.ca/products/20628299005/b2/en/front/20628299005_front_a06_@2.png"
+  },
+  {
+    "id": "e3bbbc21-8430-4236-bb7d-5eb4c6d86e24",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:37:39.367Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "835e8eed-7a02-4f54-aa2b-f1ae2b453c36",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:37:46.917Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "c6f2b67c-5faf-4bbe-824e-04f6b96cf973",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:37:54.798Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "14e8b214-b462-4108-8ea3-28a13670b34a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:38:11.210Z",
+    "item_brand": "No Name",
+    "item_name": "Maple-Style Beans",
+    "item_sale_price": "1.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20314839001/b2/en/angle/20314839001_angle_a06_@2.png"
+  },
+  {
+    "id": "9578fa2f-85ce-4e39-86c7-9287d16143cb",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:38:34.241Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "802f09bd-7641-4292-a587-847e146d309a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:38:42.248Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "c8a774e4-81ae-4e3a-932f-18d8a0066ccd",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:38:49.555Z",
+    "item_brand": "Club House",
+    "item_name": "Dry Sauce Mix, Chicken Gravy, Gluten-Free",
+    "item_sale_price": "2.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20800521/b2/en/front/20800521_front_a06_@2.png"
+  },
+  {
+    "id": "fbd739eb-001f-4e50-8c19-9f92b2609476",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:38:58.406Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "5918d022-90b0-4ef1-9115-e67b8c09efa5",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:39:06.717Z",
+    "item_brand": "Club House",
+    "item_name": "Dry Sauce Mix, Poutine Gravy",
+    "item_sale_price": "2.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20323504001/b2/en/front/20323504001_front_a06_@2.png"
+  },
+  {
+    "id": "e166f2f0-9530-48d8-ade9-62ac9bb6e26f",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:39:14.336Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "204d775c-2b0d-4ae0-b232-7389fe737321",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:39:22.745Z",
+    "item_brand": "President's Choice",
+    "item_name": "Ground Black Pepper",
+    "item_sale_price": "6.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21111110/b2/en/side/21111110_side_a06_@2.png"
+  },
+  {
+    "id": "b77d429a-9197-4b79-b825-05467211aa7c",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:39:30.569Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "8ac2657c-8f84-4673-b143-19bd3d341dcd",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:39:39.075Z",
+    "item_brand": "President's Choice",
+    "item_name": "Sweet Corn Medium Salsa",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20959238/b2/en/front/20959238_front_a06_@2.png"
+  },
+  {
+    "id": "ff142810-7e00-4f3b-9942-0e13b2d47a5f",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:39:55.258Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "092b854b-8477-45ef-9da5-04102dc8b4d7",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:40:07.190Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "5f5898d2-f68f-442f-81df-d7127ed1fd75",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:40:14.810Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "65037c9c-6ce8-4f42-80fa-6ea491681c95",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:40:21.740Z",
+    "item_brand": "President's Choice",
+    "item_name": "Fire Roasted Tomato Pasta Sauce",
+    "item_sale_price": "5.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20131344008/b2/en/side/20131344008_side_a06_@2.png"
+  },
+  {
+    "id": "c445e627-dfe0-4403-8240-a804abbb923c",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:40:31.912Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "7b36d150-c2c2-4672-8122-466c49f3e7e6",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:40:40.363Z",
+    "item_brand": "PC Blue Menu",
+    "item_name": "Twice The Fruit Apricot Spread",
+    "item_sale_price": "6.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20311087/b2/en/front/20311087_front_a06_@2.png"
+  },
+  {
+    "id": "33873dd7-1301-4160-aaaa-359f53cde932",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:40:50.256Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "efadf554-abd7-446e-8c18-35e12e5d3506",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:40:59.148Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "f86b4ac8-be78-41c4-a841-b8958e07ab3a",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:41:07.291Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "cdc74e6f-7a8a-4bd6-9cd5-dbb51a488d54",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:41:14.770Z",
+    "item_brand": "Diana",
+    "item_name": "Sauce Rib & Chicken",
+    "item_sale_price": "4.49",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21184618/b2/en/top/21184618_top_a06_@2.png"
+  },
+  {
+    "id": "5f841b62-2110-404e-8d06-87f4d41aff38",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:41:24.492Z",
+    "item_brand": "President's Choice",
+    "item_name": "Pure Apricot Jam",
+    "item_sale_price": "6.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/20301559/b2/en/front/20301559_front_a06_@2.png"
+  },
+  {
+    "id": "dcbe7ea7-0619-427d-b39b-96f06e45f9f3",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:41:34.826Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "1084c9d6-b2fe-432f-bda0-1e73b27447b4",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:41:44.477Z",
+    "item_brand": "Kelloggs",
+    "item_name": "Cereal Brownie Flavour",
+    "item_sale_price": "5.99",
+    "item_sale_expiry_date": "null",
+    "item_image": "https://assets.shop.loblaws.ca/products/21504057/b2/en/side/21504057_side_a06_@2.png"
+  },
+  {
+    "id": "611febb4-26e7-46e6-8202-433ccd2c05ef",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:41:52.039Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "b71207af-0fae-49a8-b2ea-83bf5bb422c5",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:42:00.356Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  },
+  {
+    "id": "d9ee4d5d-ebfb-4dda-ae53-20539c54f700",
+    "item_category": "pantry",
+    "date_scraped": "2023-06-22T03:42:09.575Z",
+    "item_brand": "",
+    "item_name": "",
+    "item_sale_price": "No price",
+    "item_sale_expiry_date": "null",
+    "item_image": null
+  }
+]
