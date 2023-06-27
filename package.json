@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scraper": "node index.js",
-    "server": "nodemon server.js"
+    "server": "nodemon server.js",
+    "migrate": "npx knex migrate:latest",
+    "migrate:down": "npx knex migrate:down",
+    "migrate:rollback": "npx knex migrate:rollback",
+    "seed": "npx knex seed:run"
   },
   "author": "Pierre McMillan",
   "license": "ISC",

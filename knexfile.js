@@ -1,9 +1,6 @@
+// Import dotenv to process environment variables from `.env` file.
 require("dotenv").config();
-// Update with your config settings.
 
-/**
- * @type { Object.<string, import("knex").Knex.Config> }
- */
 module.exports = {
   client: "mysql2",
   connection: {
@@ -11,5 +8,6 @@ module.exports = {
     database: process.env.DB_NAME,
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
+    charset: "utf8",
   },
 };
